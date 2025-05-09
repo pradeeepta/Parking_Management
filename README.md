@@ -122,6 +122,3 @@ spring.data.mongodb.database=parking_management
 └── pages/admin        # Admin-specific views
 ```
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
